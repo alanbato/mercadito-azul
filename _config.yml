@@ -1,1 +1,4 @@
 theme: minimal-mistakes-jekyll
+url: http://mercadito.alanbato.com
+plugins:
+  - jekyll-include-cache
